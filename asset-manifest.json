@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/populationvsgdp/static/js/main.2d4c1647.chunk.js",
+    "main.js.map": "/populationvsgdp/static/js/main.2d4c1647.chunk.js.map",
+    "runtime~main.js": "/populationvsgdp/static/js/runtime~main.3bb804b3.js",
+    "runtime~main.js.map": "/populationvsgdp/static/js/runtime~main.3bb804b3.js.map",
+    "static/js/2.1c6a01ad.chunk.js": "/populationvsgdp/static/js/2.1c6a01ad.chunk.js",
+    "static/js/2.1c6a01ad.chunk.js.map": "/populationvsgdp/static/js/2.1c6a01ad.chunk.js.map",
+    "index.html": "/populationvsgdp/index.html",
+    "precache-manifest.1235190ed2d20562e2cd9a38d05aa831.js": "/populationvsgdp/precache-manifest.1235190ed2d20562e2cd9a38d05aa831.js",
+    "service-worker.js": "/populationvsgdp/service-worker.js"
+  }
+}
